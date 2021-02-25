@@ -1,0 +1,2 @@
+# mandelbrotz
+numerical stages
